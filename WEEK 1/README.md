@@ -1,4 +1,4 @@
-# Introduction to the Internet of Things and Embedded Systems
+# The Arduino Platform and C Programming
 
 # Week 1
 
