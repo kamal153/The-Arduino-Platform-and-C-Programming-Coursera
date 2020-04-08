@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int fibonacii(int n);
+int fib(int n);
 
 int main(void)
 {
